@@ -1,3 +1,5 @@
+![CI](https://github.com/LyudmilaLushchik/hw_events/actions/workflows/web.yml/badge.svg)
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
